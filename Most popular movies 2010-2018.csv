@@ -1,0 +1,161 @@
+,genre_ids,id,title,year
+0,"[28, 53, 878, 9648, 12]",27205,Inception,2010
+1,"[12, 14, 28]",120,The Lord of the Rings: The Fellowship of the Ring,2010
+2,"[12, 14, 28]",121,The Lord of the Rings: The Two Towers,2010
+3,"[12, 14, 28]",122,The Lord of the Rings: The Return of the King,2010
+4,"[12, 14, 10751]",12444,Harry Potter and the Deathly Hallows: Part 1,2010
+5,"[16, 10751]",12429,Ponyo,2010
+6,"[18, 36, 10752]",857,Saving Private Ryan,2010
+7,"[16, 10751, 35]",20352,Despicable Me,2010
+8,"[28, 12, 14, 878]",19995,Avatar,2010
+9,"[10749, 10751, 16, 14, 10402]",10020,Beauty and the Beast,2010
+10,"[18, 36]",568,Apollo 13,2010
+11,"[16, 35, 10751]",862,Toy Story,2010
+12,"[12, 16, 35, 10751, 14]",808,Shrek,2010
+13,[35],18785,The Hangover,2010
+14,"[18, 27, 53]",539,Psycho,2010
+15,"[12, 28, 878]",10138,Iron Man 2,2010
+16,"[53, 12, 28]",27578,The Expendables,2010
+17,"[28, 878, 12, 53]",34851,Predators,2010
+18,"[12, 16, 14]",81,Nausicaä of the Valley of the Wind,2010
+19,"[28, 18, 12]",98,Gladiator,2010
+20,"[28, 12, 16, 10751]",9806,The Incredibles,2011
+21,"[10751, 14, 12]",12445,Harry Potter and the Deathly Hallows: Part 2,2011
+22,"[12, 14, 10751]",12444,Harry Potter and the Deathly Hallows: Part 1,2011
+23,"[12, 14, 28]",10195,Thor,2011
+24,"[18, 36, 10752]",857,Saving Private Ryan,2011
+25,"[878, 28, 12, 53]",106,Predator,2011
+26,"[16, 10751, 35]",20352,Despicable Me,2011
+27,"[10749, 10751, 16, 14, 10402]",10020,Beauty and the Beast,2011
+28,"[27, 28, 53, 80]",755,From Dusk Till Dawn,2011
+29,"[12, 28, 14]",1865,Pirates of the Caribbean: On Stranger Tides,2011
+30,"[10751, 16, 18]",8587,The Lion King,2011
+31,"[16, 10751, 14, 10402, 12]",12092,Alice in Wonderland,2011
+32,"[16, 35, 10751]",862,Toy Story,2011
+33,"[12, 16, 35, 10751]",9487,A Bug's Life,2011
+34,"[12, 16, 35, 10751, 14]",808,Shrek,2011
+35,"[28, 53, 12]",56292,Mission: Impossible - Ghost Protocol,2011
+36,"[12, 16, 14]",81,Nausicaä of the Valley of the Wind,2011
+37,"[12, 28, 80, 9648]",58574,Sherlock Holmes: A Game of Shadows,2011
+38,"[16, 10751]",14836,Coraline,2011
+39,"[18, 80]",238,The Godfather,2011
+40,[28],135870,Rebel,2012
+41,"[878, 28, 12]",24428,The Avengers,2012
+42,"[12, 14, 28]",22,Pirates of the Caribbean: The Curse of the Black Pearl,2012
+43,[18],550,Fight Club,2012
+44,"[28, 80, 18, 53]",49026,The Dark Knight Rises,2012
+45,"[12, 14, 28]",10195,Thor,2012
+46,"[28, 12, 14]",1930,The Amazing Spider-Man,2012
+47,"[28, 12, 14, 878]",19995,Avatar,2012
+48,"[10749, 10751, 16, 14, 10402]",10020,Beauty and the Beast,2012
+49,"[14, 16, 12]",4935,Howl's Moving Castle,2012
+50,"[18, 10749, 53]",597,Titanic,2012
+51,"[28, 12, 53]",37724,Skyfall,2012
+52,"[35, 27]",339117,Kalpana,2012
+53,"[28, 53, 12]",56292,Mission: Impossible - Ghost Protocol,2012
+54,"[16, 10751]",73723,The Lorax,2012
+55,"[12, 16, 14]",81,Nausicaä of the Valley of the Wind,2012
+56,"[16, 12, 35, 10751, 28, 14]",62177,Brave,2012
+57,"[12, 14, 28]",49051,The Hobbit: An Unexpected Journey,2012
+58,"[16, 35, 12, 10751]",57800,Ice Age: Continental Drift,2012
+59,"[12, 28, 80, 9648]",58574,Sherlock Holmes: A Game of Shadows,2012
+60,"[878, 27, 53]",158015,The Purge,2013
+61,"[12, 14, 10751]",671,Harry Potter and the Philosopher's Stone,2013
+62,"[12, 14, 10751]",672,Harry Potter and the Chamber of Secrets,2013
+63,"[16, 12, 10751]",109445,Frozen,2013
+64,"[12, 14, 10751, 9648]",675,Harry Potter and the Order of the Phoenix,2013
+65,"[10751, 14, 12]",12445,Harry Potter and the Deathly Hallows: Part 2,2013
+66,"[28, 80, 18, 53]",49026,The Dark Knight Rises,2013
+67,"[28, 12, 14, 878]",49521,Man of Steel,2013
+68,"[16, 35, 10751]",93456,Despicable Me 2,2013
+69,"[16, 35, 10751]",585,"Monsters, Inc.",2013
+70,"[28, 878]",2048,"I, Robot",2013
+71,"[10749, 53]",209419,Neelakasham Pachakadal Chuvanna Bhoomi,2013
+72,"[12, 14, 10751]",12444,Harry Potter and the Deathly Hallows: Part 1,2013
+73,"[28, 12, 878]",68721,Iron Man 3,2013
+74,"[28, 12, 14]",76338,Thor: The Dark World,2013
+75,"[16, 10751, 35, 12, 14, 10749]",812,Aladdin,2013
+76,"[12, 28, 14]",1865,Pirates of the Caribbean: On Stranger Tides,2013
+77,"[12, 14, 10751]",673,Harry Potter and the Prisoner of Azkaban,2013
+78,"[12, 14, 10751]",674,Harry Potter and the Goblet of Fire,2013
+79,"[28, 12, 53]",37724,Skyfall,2013
+80,"[28, 878, 12]",118340,Guardians of the Galaxy,2014
+81,"[27, 53]",238636,The Purge: Anarchy,2014
+82,"[12, 18, 878]",157336,Interstellar,2014
+83,"[28, 9648, 878, 53]",198663,The Maze Runner,2014
+84,"[28, 12, 14, 878]",127585,X-Men: Days of Future Past,2014
+85,"[28, 12, 14]",122917,The Hobbit: The Battle of the Five Armies,2014
+86,"[9648, 53, 18]",210577,Gone Girl,2014
+87,[18],244786,Whiplash,2014
+88,"[16, 12, 10751]",109445,Frozen,2014
+89,"[12, 10751, 16, 28, 35]",177572,Big Hero 6,2014
+90,"[878, 28, 12, 14, 35]",98566,Teenage Mutant Ninja Turtles,2014
+91,"[80, 18, 53]",242582,Nightcrawler,2014
+92,"[14, 12, 28, 10751, 10749]",102651,Maleficent,2014
+93,"[28, 53]",245891,John Wick,2014
+94,"[80, 35, 28, 12]",207703,Kingsman: The Secret Service,2014
+95,"[878, 12, 53]",131631,The Hunger Games: Mockingjay - Part 1,2014
+96,[53],207933,Stonehearst Asylum,2014
+97,"[16, 35, 10751]",93456,Despicable Me 2,2014
+98,"[53, 28, 80]",156022,The Equalizer,2014
+99,"[28, 12, 14]",76338,Thor: The Dark World,2014
+100,[10749],390845,A Delicious Flight,2015
+101,"[28, 878, 12]",118340,Guardians of the Galaxy,2015
+102,"[27, 53]",238636,The Purge: Anarchy,2015
+103,"[28, 12, 878]",99861,Avengers: Age of Ultron,2015
+104,"[28, 80, 53, 18]",168259,Furious 7,2015
+105,"[28, 9648, 878, 53]",198663,The Maze Runner,2015
+106,"[878, 28, 12]",102899,Ant-Man,2015
+107,"[28, 12, 878, 53]",135397,Jurassic World,2015
+108,"[28, 12, 14]",122917,The Hobbit: The Battle of the Five Armies,2015
+109,"[9648, 53, 18]",210577,Gone Girl,2015
+110,[18],244786,Whiplash,2015
+111,"[16, 35, 10751, 14]",159824,Hotel Transylvania 2,2015
+112,"[878, 28, 53, 12]",87101,Terminator Genisys,2015
+113,"[18, 35, 16, 10751]",150540,Inside Out,2015
+114,"[12, 10751, 16, 28, 35]",177572,Big Hero 6,2015
+115,"[878, 28, 12, 14, 35]",98566,Teenage Mutant Ninja Turtles,2015
+116,"[80, 18, 53]",242582,Nightcrawler,2015
+117,"[28, 12, 878, 53]",76341,Mad Max: Fury Road,2015
+118,"[28, 53]",245891,John Wick,2015
+119,"[28, 80, 18, 9648, 53]",273481,Sicario,2015
+120,"[10751, 35, 18]",414919,Hart Beat,2016
+121,"[28, 12, 35]",293660,Deadpool,2016
+122,"[28, 12, 14]",209112,Batman v Superman: Dawn of Justice,2016
+123,"[16, 12, 10751, 35]",269149,Zootopia,2016
+124,"[28, 12, 14, 878]",284052,Doctor Strange,2016
+125,"[28, 12, 878, 53]",135397,Jurassic World,2016
+126,"[28, 12, 878]",188927,Star Trek Beyond,2016
+127,"[12, 28, 878]",271110,Captain America: Civil War,2016
+128,"[16, 35, 10751, 14]",159824,Hotel Transylvania 2,2016
+129,"[28, 27, 53]",316727,The Purge: Election Year,2016
+130,"[28, 12, 878, 53]",76341,Mad Max: Fury Road,2016
+131,"[12, 18, 10751, 14, 16]",278927,The Jungle Book,2016
+132,"[12, 10751, 14]",259316,Fantastic Beasts and Where to Find Them,2016
+133,"[28, 53]",245891,John Wick,2016
+134,"[28, 80, 18, 9648, 53]",273481,Sicario,2016
+135,"[80, 35, 28, 12]",207703,Kingsman: The Secret Service,2016
+136,"[18, 12, 878]",286217,The Martian,2016
+137,"[53, 18, 878, 9648]",329865,Arrival,2016
+138,"[10751, 14, 12]",12445,Harry Potter and the Deathly Hallows: Part 2,2016
+139,"[27, 53]",381288,Split,2016
+140,"[28, 12]",284053,Thor: Ragnarok,2017
+141,"[14, 12, 878, 28]",181808,Star Wars: The Last Jedi,2017
+142,"[28, 12, 14, 878]",141052,Justice League,2017
+143,"[28, 12, 878, 18]",315635,Spider-Man: Homecoming,2017
+144,"[12, 14, 10751]",671,Harry Potter and the Philosopher's Stone,2017
+145,"[28, 18, 878]",263115,Logan,2017
+146,"[28, 12, 14, 10752]",297762,Wonder Woman,2017
+147,"[12, 14, 10751]",672,Harry Potter and the Chamber of Secrets,2017
+148,"[28, 12, 35, 878]",283995,Guardians of the Galaxy Vol. 2,2017
+149,"[28, 53, 878, 9648, 12]",27205,Inception,2017
+150,"[28, 12, 14, 878]",284052,Doctor Strange,2017
+151,"[28, 53, 878]",280,Terminator 2: Judgment Day,2017
+152,"[9648, 878, 53]",335984,Blade Runner 2049,2017
+153,[35],455656,#RealityHigh,2017
+154,"[16, 10751, 35, 12]",354912,Coco,2017
+155,"[10751, 14, 10749]",321612,Beauty and the Beast,2017
+156,"[12, 14, 10751, 9648]",675,Harry Potter and the Order of the Phoenix,2017
+157,"[12, 10751, 14]",259316,Fantastic Beasts and Where to Find Them,2017
+158,"[27, 878, 53]",126889,Alien: Covenant,2017
+159,"[53, 18, 878, 9648]",329865,Arrival,2017
